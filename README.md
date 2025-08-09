@@ -1,0 +1,2 @@
+# mannji
+create repository
